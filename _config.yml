@@ -7,24 +7,24 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Fatemeh Abbasian-Abyaneh / Academic Portfolio"
-title_separator          : "-"
-name                     : &name "Fatemeh Abbasian-Abyaneh"
-description              : &description "Master's student in Economics with a strong background in Physics and Applied Mathematics. Research interests include Applied Microeconomics, Political Economy, Econometrics, Machine Learning, and NLP in Economics."
+locale: "en-US"
+title                    : "Fargol(Fatemeh) Abbasian-Abyaneh / Academic Portfolio"
+title_separator: "-"
+name                     : &name "Fargol(Fatemeh) Abbasian-Abyaneh"
+description: &description "Bachelor's student in Physics \& Applied Mathematics completing all required coursework for Master's degree at Sharif University of Technology. Research interests include Applied Microeconomics, Political Economy, Econometrics, Machine Learning, and NLP in Economics."
 url                      : https://fatemehabasian.github.io/f.ab.abyaneh.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://fatemehabasian.github.io/f.ab.abyaneh.github.io/"
+baseurl: "" # the subpath of your site, e.g. "/blog"
+repository: "https://fatemehabasian.github.io/f.ab.abyaneh.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Fatemeh Abbasian-Abyaneh"
+  avatar: "profile.png"
+  name             : "Fargol Abbasian-Abyaneh"
   pronouns         : "she/her"  
-  bio              : "Master's student at Sharif University of Technology, specializing in Economics with research focused on Applied Microeconomics, Econometrics, and Machine Learning."
+  bio              : "Bachelor's student at Sharif University of Technology, specializing in Physics and Applied Matheematics with research focused on Applied Microeconomics, Econometrics, and Machine Learning."
   location         : "Tehran, Iran"
   employer         : "Sharif University of Technology"
   uri              : 
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    :
   impactstory      : 
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=fatemeh+abbasian"
+  pubmed           : 
   researchgate     : 
 
   # Repositories and software development
